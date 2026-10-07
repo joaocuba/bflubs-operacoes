@@ -26,5 +26,3 @@ Power BI, DAX, Power Query, Modelagem de Dados e Sales Analytics.
 ## Dashboard público
 
 [Acessar o dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzJhZjBlODYtNGE2MC00YTc4LTgxMDMtZDk1MjM1YmM5Mzc3IiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9)
-
-> As bases de dados não são disponibilizadas publicamente.
